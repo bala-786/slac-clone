@@ -1,0 +1,40 @@
+#headernav{
+    background-color: #541554 !important;
+    padding-bottom: 10px;
+}
+.navbar{
+    background-color: #541554 !important;
+}
+.button{
+    background-color:white !important;
+    color: #541554 ;
+    border-color: white;
+    font-family:sans-serif ;
+    border-radius: 10px;
+    font-size: 13px;
+}
+#sales{
+    border-color: white !important;
+}
+.video{
+    border-style: dashed;
+    border-color: #ffffff14;
+
+}
+.left-column{
+    padding-top: 40px;
+}
+/*----------------------------signin page css---------------------------------------------*/
+.form{
+    margin-left: 410px;
+    padding-right: 430px
+}
+.signin-logo{
+    padding-left: 120px !important;
+    
+}
+.createaccount{
+    line-height:15%; 
+    float:right;
+    padding-right: 35px;
+}
